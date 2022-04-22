@@ -1,0 +1,12 @@
+D:\git\OnlineBankAccount\bin\Debug\net6.0\OnlineBankAccount.deps.json
+D:\git\OnlineBankAccount\bin\Debug\net6.0\OnlineBankAccount.dll
+D:\git\OnlineBankAccount\bin\Debug\net6.0\ref\OnlineBankAccount.dll
+D:\git\OnlineBankAccount\bin\Debug\net6.0\OnlineBankAccount.pdb
+D:\git\OnlineBankAccount\obj\Debug\net6.0\OnlineBankAccount.csproj.AssemblyReference.cache
+D:\git\OnlineBankAccount\obj\Debug\net6.0\OnlineBankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\OnlineBankAccount\obj\Debug\net6.0\OnlineBankAccount.AssemblyInfoInputs.cache
+D:\git\OnlineBankAccount\obj\Debug\net6.0\OnlineBankAccount.AssemblyInfo.cs
+D:\git\OnlineBankAccount\obj\Debug\net6.0\OnlineBankAccount.csproj.CoreCompileInputs.cache
+D:\git\OnlineBankAccount\obj\Debug\net6.0\OnlineBankAccount.dll
+D:\git\OnlineBankAccount\obj\Debug\net6.0\ref\OnlineBankAccount.dll
+D:\git\OnlineBankAccount\obj\Debug\net6.0\OnlineBankAccount.pdb
